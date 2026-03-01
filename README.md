@@ -1,4 +1,4 @@
-# iOS Swift Project - Legend Wings - *EverWing's Mini Clone*
+# iOS Swift Project - Legend Wings - *EverWing's Mini Clone Game*
 
 **EverWing** is a popular action game. Survive as much you can, earn gold, and upgrade/purchase new characters.
 
@@ -111,4 +111,5 @@ Unless it crashes the game. Above bugs are put in low priority to be fixed.
   - [✔️] Add Upgrade Bullet Function - <b> 07/08/2017 </b>
   - [✔️] Add Upgrade Scene on Character Scene <b> 07/05/2017 </b>
 - [✔️] Display current level of bullet and its image on Character Scene <b> 07/05/2017 </b>
+
 
